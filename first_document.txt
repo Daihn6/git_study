@@ -1,3 +1,5 @@
 Let's go to study Git!!!
 
 Make a conflict.
+
+See the difference.
