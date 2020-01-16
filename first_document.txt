@@ -1,1 +1,5 @@
 Let's go to study Git!!!
+
+The first step has been finished!
+
+Make a conflict.
